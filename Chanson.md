@@ -1,11 +1,9 @@
-# Dua Lipa Lyrics
+# Dua Lipa 
 **"New Love"**
 
-```Now it's getting quiet here, now it's getting blue```
-And this baby ain't no fair, taking up my youth
-You've been telling me some lies, I be thinking it's the truth
-But I see it in your eyes, the things that you do
-
+```
+Now it's getting quiet here, now it's getting blue and this baby ain't no fair, taking up my youth You've been telling me some lies, 
+I be thinking it's the truth But I see it in your eyes, the things that you do.
 I don't wanna waste no time all alone
 Want somewhere to go, something to call my own
 And I ain't satisfied
@@ -49,4 +47,4 @@ Tryna get you to come back to me
 And I've been far, and I've been so deep
 Now I find it harder and harder to breathe
 And I need some new love
-New love, new love```
+New love, new love
